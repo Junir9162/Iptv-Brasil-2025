@@ -1,38 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazil",BR: HBO Max 6 HD
-http://tooontv.com:999/live/ere3444h/agape/199117.ts
-#EXTINF:-1 group-title="Brazil",BR: HBO Max 5 HD
-http://tooontv.com:999/live/ere3444h/agape/199118.ts
-#EXTINF:-1 group-title="Brazil",BR: HBO Max 4 HD
-http://tooontv.com:999/live/ere3444h/agape/199119.ts
-#EXTINF:-1 group-title="Brazil",BR: HBO Max 3 HD
-http://tooontv.com:999/live/ere3444h/agape/199120.ts
-#EXTINF:-1 group-title="Brazil",BR: HBO Max 2 HD
-http://tooontv.com:999/live/ere3444h/agape/199121.ts
-#EXTINF:-1 group-title="Brazil",BR: HBO Max 1 HD
-http://tooontv.com:999/live/ere3444h/agape/199122.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 7 HD
-http://tooontv.com:999/live/ere3444h/agape/199123.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 6 HD
-http://tooontv.com:999/live/ere3444h/agape/199124.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 5 HD
-http://tooontv.com:999/live/ere3444h/agape/199125.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 4 HD
-http://tooontv.com:999/live/ere3444h/agape/199126.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 3 HD
-http://tooontv.com:999/live/ere3444h/agape/199127.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 2 HD
-http://tooontv.com:999/live/ere3444h/agape/199128.ts
-#EXTINF:-1 group-title="Brazil",BR: STAR+ 1 HD
-http://tooontv.com:999/live/ere3444h/agape/199129.ts
 #EXTINF:-1 group-title="Brazil",BR: WARNER CHANNEL HD
 http://tooontv.com:999/live/ere3444h/agape/199178.ts
-#EXTINF:-1 group-title="Brazil",BR: TNT SERIES HD
-http://tooontv.com:999/live/ere3444h/agape/199181.ts
-#EXTINF:-1 group-title="Brazil",BR: TNT Series
-http://tooontv.com:999/live/ere3444h/agape/199182.ts
-#EXTINF:-1 group-title="Brazil",BR: TNT HD
-http://tooontv.com:999/live/ere3444h/agape/199183.ts
 #EXTINF:-1 group-title="Brazil",BR: TELECINE PREMIUM HD
 http://tooontv.com:999/live/ere3444h/agape/199187.ts
 #EXTINF:-1 group-title="Brazil",BR: TELECINE PIPOCA HD
